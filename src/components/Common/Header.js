@@ -7,7 +7,7 @@ const Header = () => (
     <Toolbar>
       <img src={logo} alt="logo" width="32" height="32"></img>
       &nbsp;&nbsp;
-      <h1>Lyric Finde App</h1>
+      <h1>Lyric Finder App</h1>
     </Toolbar>
   </AppBar>
 );
